@@ -11,8 +11,8 @@ Build Neural Network from Scratch
 ### Overview :
 Learn Basic fundamental of Convolutional Neural Networks and Transfer learning
 #### Our approach :
-Detect Dogs via Pretrained VGGNet and Detect human faces with Haarcascade 
-Make Dataloader according to train and test augmentation with PyTorch Transforms
-Used Pretrained Resnet101 for transfer learning
-Used Adam as optimizer 
-Results : 84% accurate on testing set
+1. Detect Dogs via Pretrained VGGNet and Detect human faces with Haarcascade 
+2. Make Dataloader according to train and test augmentation with PyTorch Transforms
+3. Used Pretrained Resnet101 for transfer learning
+4. Used Adam as optimizer
+5. Results : 84% accurate on testing set
