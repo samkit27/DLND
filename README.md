@@ -6,7 +6,7 @@
 Build Neural Network from Scratch
 
 
-## [Project 2 : Dog Breed Classification](https://github.com/samkit27/DLND/tree/master/dog_project)
+## [Project 2 : Dog Breed Classification](https://github.com/samkit27/DLND/tree/master/Project%202%20Dog%20Breed%20Classification)
 
 ### Overview :
 Learn Basic fundamental of Convolutional Neural Networks and Transfer learning
